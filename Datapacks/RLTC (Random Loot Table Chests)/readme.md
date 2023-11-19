@@ -32,4 +32,4 @@ This datapack was created by Hamziee.
 
 ## License
 
-This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License - see the [LICENSE.md](https://github.com/HEO-Systems/Link101-Events-Datapacks/blob/main/LICENSE) file for details.
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License - see the [LICENSE.md](https://github.com/HEO-Systems/Link101/blob/main/LICENSE) file for details.
