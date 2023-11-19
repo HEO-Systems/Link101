@@ -4,7 +4,7 @@ This repository is dedicated to implementing various useful features aimed at en
 
 ## Credits
 
-- [Hamziee](https://github.com/Hamziee).
+- [Hamziee](https://github.com/Hamziee)
 
 ## License
 
