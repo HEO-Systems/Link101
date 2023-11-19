@@ -4,7 +4,7 @@
     {
       "rolls": {
         "min": 8,
-        "max": 17
+        "max": 14
       },
       "entries": [
         {
@@ -168,7 +168,7 @@
         {
           "type": "minecraft:item",
           "weight": 10,
-          "name": "minecraft:fishing_pole"
+          "name": "minecraft:fishing_rod"
         }
       ]
     }
