@@ -169,6 +169,255 @@
           "type": "minecraft:item",
           "weight": 10,
           "name": "minecraft:fishing_rod"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 18,
+          "name": "fishofthieves:cooked_battlegill",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 10
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 29,
+          "name": "fishofthieves:cooked_islehopper",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4,
+                "max": 13
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 32,
+          "name": "fishofthieves:cooked_wrecker",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 3,
+                "max": 15
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 26,
+          "name": "fishofthieves:cooked_pondie",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 11
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 20,
+          "name": "fishofthieves:cooked_splashtail",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 3,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 18,
+          "name": "minecraft:writable_book",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 12,
+          "name": "grapplemod:grapplinghook"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 7,
+          "name": "drinkbeer:beer_mug_apple_lambic",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 8,
+          "name": "drinkbeer:beer_mug_haars_icey_pale_lager",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "immersive_melodies:lute"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "immersive_melodies:piano"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 20,
+          "name": "villager-hats:farmer_hat"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 20,
+          "name": "villager-hats:fisherman_hat"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 20,
+          "name": "villager-hats:fletcher_hat"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 35,
+          "name": "villager-hats:butcher_hat"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 47,
+          "name": "minecraft:compass"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 33,
+          "name": "minecraft:gunpowder",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 11
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 6,
+          "name": "hookshot:black_hookshot"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "minecraft:saddle",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 39,
+          "name": "minecraft:paper",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 3,
+                "max": 21
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 16,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "minecraft:set_potion",
+              "id": "minecraft:invisibility"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 16,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "minecraft:set_potion",
+              "id": "minecraft:water_breathing"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 27,
+          "name": "minecraft:iron_nugget",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4,
+                "max": 19
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 51,
+          "name": "minecraft:oak_log",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 3,
+                "max": 15
+              }
+            }
+          ]
         }
       ]
     }
