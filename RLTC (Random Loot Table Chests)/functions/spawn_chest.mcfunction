@@ -1,0 +1,1 @@
+execute as @e[type=minecraft:chest,name="Loot",distance=..5] run execute as @a[distance=..5,nbt={Inventory:[{Slot:0b,id:"minecraft:command_block",tag:{BlockEntityTag:{Command:"/testfor @a[distance=..5] {Op:1b}"}}}]},limit=1] run data merge block ~ ~1 ~ {LootTable:"random_loot:random_loot_table"}
