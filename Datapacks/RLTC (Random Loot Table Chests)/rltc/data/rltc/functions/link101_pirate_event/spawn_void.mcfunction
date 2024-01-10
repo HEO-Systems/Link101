@@ -1,0 +1,2 @@
+setblock ~ ~ ~ probablychests:normal_chest{LootTable:"rltc:blocks/link101_pirate_event/void"}
+tellraw @a ["",{"text":"[","color":"gray"},{"text":"RLTC","bold":true,"color":"blue"},{"text":"]","color":"gray"},{"text":" Chest placed with "},{"text":"VOID","bold":true,"color":"gold"},{"text":" loot table!"}]
